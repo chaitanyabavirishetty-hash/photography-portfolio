@@ -1,0 +1,22 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8f7f3;
+  color: #272923;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
